@@ -1,0 +1,23 @@
+[
+  {
+    "result": "success",
+    "base_code": "USD",
+    "target_code": "VES",
+    "conversion_rate": 36.9855,
+    "conversion_result": 1109.565
+  },
+  {
+    "result": "success",
+    "base_code": "USD",
+    "target_code": "VES",
+    "conversion_rate": 36.9855,
+    "conversion_result": 11095.65
+  },
+  {
+    "result": "success",
+    "base_code": "USD",
+    "target_code": "VES",
+    "conversion_rate": 36.9855,
+    "conversion_result": 36985.5
+  }
+]
